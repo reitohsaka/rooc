@@ -11,6 +11,7 @@ This repo is about my current character setup and it'sn't a guide about to build
 - Mounts Related
 - Pets
 - Skill Tree
+- Astrocore
 
 ![오렌지](Character.png)
 
@@ -30,10 +31,11 @@ This repo is about my current character setup and it'sn't a guide about to build
 - [Mounts Related](Setup/4_Mounts/README.md)
 - [Pets](Setup/5_Pets/README.md)
 - [Skill Tree](Setup/6_SkiilTree/README.md)
+- [Astrocore](Setup/7_Astrocore/README.md)
 
 ## TODO
 
-- [ ] Astrocore
+- [x] Astrocore
 - [x] Mount Related
 - [x] Pets
 - [x] Skill Tree
