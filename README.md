@@ -1,6 +1,6 @@
 # Ragnarok Online Classic
 
-This repo is about my current character setup and it'sn't a guide about to build your own character, but feel free use the setup as reference, if you have any suggestions just sent me message in-game or ping me in discord(if know my discord :grin:) :thumbsup:, to view the setup just open Setup folder above or use quick link below.
+This repo showcases my current character setup. Since this build is heavily tailored to my personal playstyle, I wouldn't recommend copying it exactly—but you're welcome to use it as a reference! If you have any suggestions, just send me a message in-game or ping me on Discord (if you know my tag :grin:) :thumbsup:. To view the setup, open the Setup folder above or use the quick link below.
 
 ## What Available Here?
 
@@ -35,7 +35,4 @@ This repo is about my current character setup and it'sn't a guide about to build
 
 ## TODO
 
-- [x] Astrocore
-- [x] Mount Related
-- [x] Pets
-- [x] Skill Tree
+- [ ] Add Divine Armament Infuse Divine Trait
