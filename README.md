@@ -8,6 +8,7 @@ This repo is about my current character setup and it'sn't a guide about to build
 - Equipments cover build used, cards and enchants
 - Medals
 - Feathers
+- Mounts Related
 
 ![오렌지](Character.png)
 
@@ -24,10 +25,11 @@ This repo is about my current character setup and it'sn't a guide about to build
 - [Equipments](Setup/1_Equipments/README.md)
 - [Medals](Setup/2_Medals/README.md)
 - [Feathers](Setup/3_Feathers/README.md)
+- [Mounts Related](Setup/4_Mounts/README.md)
 
 ## TODO
 
 - [ ] Astrocore
-- [ ] Mount Related
+- [x] Mount Related
 - [ ] Pets
 - [ ] Skill Tree
