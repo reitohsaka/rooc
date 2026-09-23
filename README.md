@@ -9,6 +9,7 @@ This repo is about my current character setup and it'sn't a guide about to build
 - Medals
 - Feathers
 - Mounts Related
+- Pets
 
 ![오렌지](Character.png)
 
@@ -26,10 +27,11 @@ This repo is about my current character setup and it'sn't a guide about to build
 - [Medals](Setup/2_Medals/README.md)
 - [Feathers](Setup/3_Feathers/README.md)
 - [Mounts Related](Setup/4_Mounts/README.md)
+- [Pets](Setup/5_Pets/README.md)
 
 ## TODO
 
 - [ ] Astrocore
 - [x] Mount Related
-- [ ] Pets
+- [x] Pets
 - [ ] Skill Tree
