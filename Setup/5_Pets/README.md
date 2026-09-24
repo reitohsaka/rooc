@@ -5,4 +5,4 @@
 | Child of Earth 	| 10   	|
 | Squidgitte     	| 10   	|
 | Baphomet Jr.   	| 10   	|
-| King Piggy     	| 5    	|
+| King Piggy     	| 6    	|
