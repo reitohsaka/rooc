@@ -1,4 +1,4 @@
-# Ragnarok Online Classic
+# Ragnarok Origin Classic
 
 This repo showcases my current character setup. Since this build is heavily tailored to my personal playstyle, I wouldn't recommend copying it exactly—but you're welcome to use it as a reference! If you have any suggestions, just send me a message in-game or ping me on Discord (if you know my tag :grin:) :thumbsup:. To view the setup, open the Setup folder above or use the quick link below.
 
