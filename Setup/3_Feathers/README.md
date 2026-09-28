@@ -44,7 +44,7 @@
 
 | Name    	| Tier 	| Type 	| Rarity 	|
 |---------	|------	|------	|--------	|
-| Dark    	| 11   	| MIX  	| Orange 	|
+| Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 6    	| MIX  	| Orange 	|
 | Faith   	| 20   	| ATK  	| Purple 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
@@ -64,7 +64,7 @@
 
 | Name    	| Tier 	| Type 	| Rarity 	|
 |---------	|------	|------	|--------	|
-| Dark    	| 11   	| MIX  	| Orange 	|
+| Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 6    	| MIX  	| Orange 	|
 | Faith   	| 20   	| ATK  	| Purple 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
@@ -84,7 +84,7 @@
 
 | Name    	| Tier 	| Type 	| Rarity 	|
 |---------	|------	|------	|--------	|
-| Dark    	| 11   	| MIX  	| Orange 	|
+| Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 6    	| MIX  	| Orange 	|
 | Faith   	| 20   	| ATK  	| Purple 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
