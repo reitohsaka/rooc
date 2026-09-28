@@ -14,8 +14,8 @@
 
 | Name   	| Tier 	| Type 	| Rarity 	|
 |--------	|------	|------	|--------	|
-| Divine 	| 17   	| DEF  	| Orange 	|
-| Nature 	| 17   	| DEF  	| Orange 	|
+| Divine 	| 18   	| DEF  	| Orange 	|
+| Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
 | Terra  	| 18   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
@@ -34,8 +34,8 @@
 
 | Name   	| Tier 	| Type 	| Rarity 	|
 |--------	|------	|------	|--------	|
-| Divine 	| 17   	| DEF  	| Orange 	|
-| Nature 	| 17   	| DEF  	| Orange 	|
+| Divine 	| 18   	| DEF  	| Orange 	|
+| Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
 | Terra  	| 18   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
