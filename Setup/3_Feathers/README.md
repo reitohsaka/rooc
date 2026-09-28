@@ -17,7 +17,7 @@
 | Divine 	| 17   	| DEF  	| Orange 	|
 | Nature 	| 17   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 17   	| DEF  	| Orange 	|
+| Terra  	| 18   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Rune
@@ -37,7 +37,7 @@
 | Divine 	| 17   	| DEF  	| Orange 	|
 | Nature 	| 17   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 17   	| DEF  	| Orange 	|
+| Terra  	| 18   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Weapon
@@ -57,7 +57,7 @@
 | Divine 	| 17   	| DEF  	| Orange 	|
 | Nature 	| 17   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 16   	| DEF  	| Orange 	|
+| Terra  	| 17   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Intimidation
@@ -97,7 +97,7 @@
 | Divine 	| 17   	| DEF  	| Orange 	|
 | Nature 	| 17   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 16   	| DEF  	| Orange 	|
+| Terra  	| 17   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ### TODO
