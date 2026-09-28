@@ -6,7 +6,7 @@
 |---------	|------	|------	|--------	|
 | Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 7    	| MIX  	| Orange 	|
-| Faith   	| 20   	| ATK  	| Purple 	|
+| Day   	| 7   	| ATK  	| Orange 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
 | Order   	| 7    	| MIX  	| Purple 	|
 
@@ -26,7 +26,7 @@
 |---------	|------	|------	|--------	|
 | Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 7    	| MIX  	| Orange 	|
-| Faith   	| 20   	| ATK  	| Purple 	|
+| Day   	| 7   	| ATK  	| Orange 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
 | Order   	| 7    	| MIX  	| Purple 	|
 
@@ -99,6 +99,3 @@
 | Night  	| 20   	| DEF  	| Orange 	|
 | Terra  	| 17   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
-
-### TODO
-- [ ] Change [MIX] Light to [ATK] Day on Valkyrie - Omni
