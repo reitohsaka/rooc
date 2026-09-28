@@ -14,7 +14,7 @@
 
 ## Equip
 
-- Bonded Barding : Lv.49/49
+- Bonded Barding : Lv.59/59
 - Galebreak Barding : Lv.65/69
 - Loader Barding : Lv.65/69
 - Voyager Barding : Lv.39/39
