@@ -2,7 +2,7 @@
 
 ## Ability
 
-- Lv.59
+- Lv.60
 
 ## Traits
 
@@ -14,7 +14,7 @@
 
 ## Equip
 
-- Bonded Barding : Lv.59/59
+- Bonded Barding : Lv.65/69
 - Galebreak Barding : Lv.65/69
 - Loader Barding : Lv.65/69
 - Voyager Barding : Lv.39/39
