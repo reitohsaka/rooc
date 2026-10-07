@@ -17,7 +17,7 @@
 | Divine 	| 18   	| DEF  	| Orange 	|
 | Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 18   	| DEF  	| Orange 	|
+| Terra  	| 20   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Rune
@@ -37,7 +37,7 @@
 | Divine 	| 18   	| DEF  	| Orange 	|
 | Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 18   	| DEF  	| Orange 	|
+| Terra  	| 20   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Weapon
@@ -46,7 +46,7 @@
 |---------	|------	|------	|--------	|
 | Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 6    	| MIX  	| Orange 	|
-| Faith   	| 20   	| ATK  	| Purple 	|
+| Day   	| 6   	| ATK  	| Orange 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
 | Order   	| 6    	| MIX  	| Purple 	|
 
@@ -54,10 +54,10 @@
 
 | Name   	| Tier 	| Type 	| Rarity 	|
 |--------	|------	|------	|--------	|
-| Divine 	| 17   	| DEF  	| Orange 	|
-| Nature 	| 17   	| DEF  	| Orange 	|
+| Divine 	| 18   	| DEF  	| Orange 	|
+| Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 18   	| DEF  	| Orange 	|
+| Terra  	| 20   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Intimidation
@@ -66,7 +66,7 @@
 |---------	|------	|------	|--------	|
 | Dark    	| 12   	| MIX  	| Orange 	|
 | Light   	| 6    	| MIX  	| Orange 	|
-| Faith   	| 20   	| ATK  	| Purple 	|
+| Day   	| 6   	| ATK  	| Orange 	|
 | Justice 	| 20   	| MIX  	| Purple 	|
 | Order   	| 6    	| MIX  	| Purple 	|
 
@@ -74,10 +74,10 @@
 
 | Name   	| Tier 	| Type 	| Rarity 	|
 |--------	|------	|------	|--------	|
-| Divine 	| 17   	| DEF  	| Orange 	|
-| Nature 	| 17   	| DEF  	| Orange 	|
+| Divine 	| 18   	| DEF  	| Orange 	|
+| Nature 	| 18   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 18   	| DEF  	| Orange 	|
+| Terra  	| 20   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
 
 ## Valkyrie - Omni
@@ -97,5 +97,5 @@
 | Divine 	| 17   	| DEF  	| Orange 	|
 | Nature 	| 17   	| DEF  	| Orange 	|
 | Night  	| 20   	| DEF  	| Orange 	|
-| Terra  	| 18   	| DEF  	| Orange 	|
+| Terra  	| 20   	| DEF  	| Orange 	|
 | Soul   	| 20   	| DEF  	| Purple 	|
