@@ -13,11 +13,11 @@ This repo showcases my current character setup. Since this build is heavily tail
 - Skill Tree
 - Astrocore
 
-![오렌지](Character.png)
+![Aoі](Character.png)
 
 ## Character Info
 
-- Nickname : 오렌지
+- Nickname : Aoі
 - Jobs     : High Priest
 - Server   : Geffen-9
 - Guild    : BANKAI
